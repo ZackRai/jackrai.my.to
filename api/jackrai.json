@@ -1,5 +1,5 @@
 {
-  "status"          : "ready",
+  "status"          : true,
   "broadcast"       : "follow instagram: @jackrai_",
   "dailyquotes"    : {
                       "quotes"   : "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
